@@ -3,7 +3,7 @@ const BOT_NUMBER = "" // ඔයාගෙ whatsapp number එක. (your whatsapp 
 const SESSION_ID = "" // ඔයාගෙ session id එක මේකෙන් ගන්න - https://prabathmd-official.vercel.app
 
 
-// ඉහත ඒව "" මැදට එකතු කරන්න වෙනත් කිසිම දෙයක් වෙනස් නොකරන්න ❌. (Add "" in the middle of the above and ❌ don't change anything else.)
+// ඉහත ඒව "PRABATH-MD~YX0MPEYv05l5B0c" මැදට එකතු කරන්න වෙනත් කිසිම දෙයක් වෙනස් නොකරන්න ❌. (Add "" in the middle of the above and ❌ don't change anything else.)
 
 
 const GITHUB_AUTH_TOKEN = DATABASE
